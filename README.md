@@ -4,4 +4,4 @@ Statistical analysis on the survival rates across different medications for indi
 
 
 ![Kaplan-Meier Curve](/Images/Kaplan_Meier.png)
-Format: ![Alt Text](url)
+Format: ![Kaplan Meier Survival Curve for Heparin and Aspirin Treatments]
