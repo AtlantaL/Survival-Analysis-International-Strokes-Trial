@@ -18,6 +18,6 @@ This report contains a statistical analysis on survival rates for patients who a
 - Time Splitting Data
 - Hazard Ratio Interpretations
 
-### Kaplan-Meier Curve
+### Kaplan-Meier Curve (Heparin vs Aspirin)
 
 ![Kaplan-Meier Curve](/Images/Kaplan_Meier.png)
