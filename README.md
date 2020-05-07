@@ -18,8 +18,6 @@ This report contains a statistical analysis on survival rates for patients who a
 - Time Splitting Data
 - Hazard Ratio Interpretations
 
-### Figures
+### Kaplan-Meier Curve
 
 ![Kaplan-Meier Curve](/Images/Kaplan_Meier.png)
-
-Kaplan Meier Survival Curve for Heparin and Aspirin Treatments
