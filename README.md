@@ -4,7 +4,7 @@
 
 **Date:** Winter 2020
 
-This report contains a statistical analysis on survival rates for patients who are suffering from symptoms of ischemic stroke. The goal is to find which medication (heparin or aspirin) improves overall survivability the most over the course of the 6-month period from randomization. Below is a general list of the procedures we followed in our analysis.
+This report contains a statistical analysis on survival rates for patients who are suffering from symptoms of ischemic stroke. The goal is to find which medication (heparin or aspirin) improves overall survivability the most over the course of the 6-month period from randomization. The entire project was completed in RStudio. Below is a general list of the procedures we followed in our analysis.
 
 ### Procedures
 
